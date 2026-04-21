@@ -37,14 +37,4 @@ Select your target emulator (e.g., Android Emulator or Windows Machine) from the
 Click Run (or press F5).
 
 👨‍💻 Developer
-Developed and maintained by SS_67710955
-
-
-**วิธีนำไปใช้งาน:**
-1. สร้างไฟล์ใหม่ในโฟลเดอร์โปรเจกต์ของคุณ (โฟลเดอร์เดียวกับที่มีไฟล์ `.sln`) แล้วตั้งชื่อว่า `README.md`
-2. ก๊อปปี้ข้อความในกล่องด้านบนไปวางแล้วกด Save
-3. ใช้คำสั่ง Git เพื่ออัพเดตขึ้น GitHub ได้เลยครับ:
-   ```bash
-   git add README.md
-   git commit -m "docs: เพิ่มไฟล์ README.md"
-   git push origin main
+Developed and maintained by Kong
