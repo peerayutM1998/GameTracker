@@ -31,8 +31,8 @@ C:\Users\DELL\source\repos\GameTracker\GameTracker\obj\Debug\net10.0-android\mau
 C:\Users\DELL\source\repos\GameTracker\GameTracker\obj\Debug\net10.0-android\resizetizer\f\OpenSans-Regular.ttf
 C:\Users\DELL\source\repos\GameTracker\GameTracker\obj\Debug\net10.0-android\resizetizer\f\OpenSans-Semibold.ttf
 C:\Users\DELL\source\repos\GameTracker\GameTracker\obj\Debug\net10.0-android\resizetizer\r\drawable\icon_home.png
-C:\Users\DELL\source\repos\GameTracker\GameTracker\obj\Debug\net10.0-android\resizetizer\r\drawable\icon_library.png
 C:\Users\DELL\source\repos\GameTracker\GameTracker\obj\Debug\net10.0-android\resizetizer\r\drawable\icon_stats.png
+C:\Users\DELL\source\repos\GameTracker\GameTracker\obj\Debug\net10.0-android\resizetizer\r\drawable\icon_library.png
 C:\Users\DELL\source\repos\GameTracker\GameTracker\obj\Debug\net10.0-android\resizetizer\r\drawable-xxxhdpi\dotnet_bot.png
 C:\Users\DELL\source\repos\GameTracker\GameTracker\obj\Debug\net10.0-android\resizetizer\r\drawable-xxhdpi\dotnet_bot.png
 C:\Users\DELL\source\repos\GameTracker\GameTracker\obj\Debug\net10.0-android\resizetizer\r\drawable-xhdpi\dotnet_bot.png
@@ -132,6 +132,7 @@ C:\Users\DELL\source\repos\GameTracker\GameTracker\obj\Debug\net10.0-android\Gam
 C:\Users\DELL\source\repos\GameTracker\GameTracker\obj\Debug\net10.0-android\GameTracker.AssemblyInfoInputs.cache
 C:\Users\DELL\source\repos\GameTracker\GameTracker\obj\Debug\net10.0-android\GameTracker.AssemblyInfo.cs
 C:\Users\DELL\source\repos\GameTracker\GameTracker\obj\Debug\net10.0-android\GameTracker.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\GameTracker\GameTracker\obj\Debug\net10.0-android\GameTracker.sourcelink.json
 C:\Users\DELL\source\repos\GameTracker\GameTracker\obj\Debug\net10.0-android\XamlC.stamp
 C:\Users\DELL\source\repos\GameTracker\GameTracker\obj\Debug\net10.0-android\GameTrac.860B5844.Up2Date
 C:\Users\DELL\source\repos\GameTracker\GameTracker\obj\Debug\net10.0-android\GameTracker.dll

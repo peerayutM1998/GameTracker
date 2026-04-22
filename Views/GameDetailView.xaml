@@ -70,7 +70,7 @@
                             </VerticalStackLayout>
                         </Border>
 
-                        <Button Text="Add to library" 
+                        <Button  Text="Add to library" 
                                 Command="{Binding AddToLibraryCommand}" 
                                 BackgroundColor="#7A75FF" 
                                 TextColor="White" 

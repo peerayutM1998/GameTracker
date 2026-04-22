@@ -1,4 +1,4 @@
-<api type="debug" assembly-name="GameTracker" mvid="79cc7c18b7354652894db9d53a8aa2f1">
+<api type="debug" assembly-name="GameTracker" mvid="29a4b3d0be5d4a3a94e73757aa204cd5">
   <java-to-managed>
     <entry java-name="crc64f37c224512d282a1/MainActivity" managed-name="GameTracker.MainActivity, GameTracker" managed-type-token-id="33554441" />
     <entry java-name="crc64f37c224512d282a1/MainApplication" managed-name="GameTracker.MainApplication, GameTracker" managed-type-token-id="33554442" />
